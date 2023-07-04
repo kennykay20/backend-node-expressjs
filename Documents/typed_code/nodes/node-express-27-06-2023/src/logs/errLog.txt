@@ -1,0 +1,46 @@
+28-06-2023	12:52:50	6bdcdc52-ba97-41a0-b278-986dde1ebb17	Error: 	 Not allowed by CORS
+28-06-2023	12:52:50	3dda1213-aec6-4598-92ca-5f7430039931	Error: 	 Not allowed by CORS
+28-06-2023	14:26:57	8eeb49a7-c2eb-4b05-a6ab-43f31bb95a92	TypeError: 	 Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    --- index 2 closes the circle
+28-06-2023	14:27:27	0480b8c9-ca87-451f-9167-23de89a09455	TypeError: 	 Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    --- index 2 closes the circle
+28-06-2023	14:28:20	6e877b8d-6f9b-4f00-9741-17b82c746e6e	TypeError: 	 Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    --- index 2 closes the circle
+28-06-2023	14:29:08	1860beae-d469-4147-a52f-1c78f45bf50f	SyntaxError: 	 Unexpected token o in JSON at position 1
+28-06-2023	14:29:21	8d87535e-43af-4733-8513-8adf5923fcdb	SyntaxError: 	 Unexpected token o in JSON at position 1
+28-06-2023	14:31:15	2e0ec273-a67b-41f8-94b3-08b7c570dd79	SyntaxError: 	 Unexpected token o in JSON at position 1
+28-06-2023	14:32:48	21507371-33be-470e-9db5-50351a36891c	SyntaxError: 	 Unexpected token o in JSON at position 1
+28-06-2023	14:33:12	e9d9baf9-d8f3-4233-9627-b90efdf28412	SyntaxError: 	 Unexpected token o in JSON at position 1
+28-06-2023	14:33:50	25c850af-4dee-49d2-8a54-de6beefa44ca	TypeError: 	 Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    --- index 2 closes the circle
+28-06-2023	14:35:23	763fded1-d4d5-491f-b17e-12b17953d794	TypeError: 	 Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    --- index 2 closes the circle
+28-06-2023	14:36:19	70a8119e-dfc1-4352-9f6d-99e2f05fe917	SyntaxError: 	 Unexpected token o in JSON at position 1
+28-06-2023	15:02:41	ae35f45e-c972-4108-8613-8417812c0cf1	TypeError: 	 Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    --- index 2 closes the circle
+28-06-2023	15:04:52	2b5ca961-b51a-4d3b-bd04-8feb5485c9b0	TypeError: 	 Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    --- index 2 closes the circle
+28-06-2023	15:05:45	fbe66d0d-b373-4f0b-a897-289527a2024e	TypeError: 	 Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    --- index 2 closes the circle
+28-06-2023	15:11:35	c0cedcb3-3530-4107-90bf-336d0574a812	TypeError: 	 Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    --- index 2 closes the circle
+28-06-2023	15:12:49	a3335a4d-c360-45da-82c3-e6feb1557942	Error: 	 Cannot set headers after they are sent to the client
+28-06-2023	15:13:42	7e2aa950-d07b-45e7-ae39-91c9b1ecef7d	TypeError: 	 Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    --- index 2 closes the circle
+28-06-2023	15:16:10	de2ff325-f669-452e-a312-612e209d564a	TypeError: 	 Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    --- index 2 closes the circle
+28-06-2023	15:21:19	07f6447c-f1ca-4d58-8e1c-e5c62352b161	TypeError: 	 Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    --- index 2 closes the circle
+28-06-2023	16:03:31	7fa37328-6c76-400b-b518-ae53892c4a36	ReferenceError: 	 data is not defined
